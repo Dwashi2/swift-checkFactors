@@ -6,7 +6,7 @@
 
   <h3 align="center">Swift Pratice</h3>
   <p align="center">
-    Project to pratice Functions in Swift 5.4
+    Project to pratice Swift 5.4
   </p>
 </p>
 
